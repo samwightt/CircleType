@@ -6,6 +6,8 @@ create one that uses a "beat the clock" type mechanic cause it hasn't been done 
 It's built with `styled-components` and uses nothing but React Hooks. Also please note that it was built in a pretty short amount of time,
 so tests and best practices might not exist.
 
+Source code is also available [on my Github](https://github.com/samwightt/CircleType), and the app is hosted with (Zeit Now on my personal site)(https://circletype.samw.dev). Hope you like it!
+
 ## To Run:
 
 Clone the repo:
